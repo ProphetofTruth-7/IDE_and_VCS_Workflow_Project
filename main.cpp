@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Unsynced!" << endl;
+    cout << "Hello, Malakye Brown!" << endl;
     return 0;
 
 }
